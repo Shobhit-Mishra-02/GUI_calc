@@ -1,3 +1,4 @@
+# author : Shobhit Mishra
 # Here I have created a calculator with the help of tkinter tool-kit.
 # This GUI will perform addition, subtraction, multiplication ,division , power
 
